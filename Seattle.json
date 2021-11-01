@@ -1,0 +1,73 @@
+{ 
+
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pike Place Market"
+        
+      },
+      "geometry": {
+        "coordinates": [-122.341057, 47.609459],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cascade Mountains"
+        
+      },
+      "geometry": {
+        "coordinates": [-121.73244893211775, 47.49715143925048],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Starbucks Reserve Roastery"
+        
+      },
+      "geometry": {
+        "coordinates": [-122.328407, 47.614090],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amazon Spheres"
+       
+      },
+      "geometry": {
+        "coordinates": [-122.3390022, 47.6158629],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gas Works Park"
+       
+      },
+      "geometry": {
+        "coordinates": [-122.33609771728516, 47.64683151245117],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Space Needle"
+        
+      },
+      "geometry": {
+        "coordinates": [-122.3493036, 47.6205131],
+        "type": "Point"
+      }
+    }
+    
+  ],
+ "type": "FeatureCollection"
+}
